@@ -6,3 +6,4 @@ action_create_object(Boss_bomb_intro, 0, 0);
 
 global.tilespeed = 0
 
+action_create_object(obj_powerup_ship, room_width/2, 0);
