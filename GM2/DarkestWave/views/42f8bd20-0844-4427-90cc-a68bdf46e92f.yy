@@ -1,0 +1,32 @@
+{
+    "id": "42f8bd20-0844-4427-90cc-a68bdf46e92f",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "42f8bd20-0844-4427-90cc-a68bdf46e92f",
+    "children": [
+        "7796f5be-8afc-424f-8b7c-a320621b8396",
+        "38aa1cd8-b375-4a51-bf4d-87901d2ab872",
+        "19d5ce31-ba00-4f74-a045-fd7aad31a7dc",
+        "b953b430-028b-480a-b397-908bfb830602",
+        "dab1ba42-3de9-4f08-a169-437ec85e123b",
+        "389fde58-bf42-4e44-8e23-39aa4748998f",
+        "feb887ea-aa74-4edf-9404-b553f4b0b85e",
+        "2d0bf99f-de30-49bb-be7e-1f3d6d26c80b",
+        "3e4f2cef-50e4-4bfd-acfa-55219cd6f3b1",
+        "4569687f-d6ad-43cc-b61c-81e9d98491bb",
+        "9006b7d4-b552-4f5d-8173-dfbd44258e21",
+        "4f6f0603-7a13-4e57-982b-b7f89d88ee87",
+        "fb2540ee-a342-4710-936a-4925a487ed45",
+        "9c800ed0-a125-4e43-99cb-a1070fb774db",
+        "bba589db-f8e1-4ce6-af95-0ab937a19d34",
+        "7a83878b-1ec2-4274-a480-2132939cb289",
+        "097df43e-88b6-4670-ac41-333ef372e3ee",
+        "8eb18074-5598-4aaa-a5a8-8be88ab564a7",
+        "f53f4a27-fcdb-4470-a08b-141c6bc67da8",
+        "464514ce-2774-45d3-921e-3ba3d93a19d3"
+    ],
+    "filterType": "GMSound",
+    "folderName": "Music",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

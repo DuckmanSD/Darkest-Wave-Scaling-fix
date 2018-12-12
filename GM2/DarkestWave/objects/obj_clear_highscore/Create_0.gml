@@ -1,0 +1,2 @@
+highscore_clear();
+

@@ -1,0 +1,467 @@
+!!! Font NoSleep uses a font (VCR OSD Mono) not installed on this system - Font has NOT been regenerated
+!!! Font digital_clock uses a font (Digital-7) not installed on this system - Font has NOT been regenerated
+Converting GML script: ${project_dir}\timelines\tml_lvl_2\moment_6600.gml
+Converted description /// @description global updates
+
+Converting GML script: ${project_dir}\timelines\tml_lvl_2\moment_7620.gml
+Converted description /// @description global updates
+
+Converting GML script: ${project_dir}\timelines\LVL_1_HARD\moment_7200.gml
+Converted description /// @description  boss intro fx
+
+Converting GML script: ${project_dir}\timelines\LVL_2_HARD\moment_7600.gml
+Converted description /// @description  boss intro fx
+
+Converting GML script: ${project_dir}\timelines\LVL_4_HARD\moment_7650.gml
+Converted description /// @description  boss intro fx
+
+Converting GML script: ${project_dir}\timelines\LVL_5_HARD\moment_7650.gml
+Converted description /// @description  boss intro fx
+
+Converting GML script: ${project_dir}\timelines\level_2_duplicate\moment_6600.gml
+Converted description /// @description global updates
+
+Converting GML script: ${project_dir}\timelines\level_2_duplicate\moment_7620.gml
+Converted description /// @description global updates
+
+Converting GML script: ${project_dir}\objects\demon_homing_sweep_left\Step_0.gml
+Converted description /// @description  faces path
+
+Converting GML script: ${project_dir}\objects\demonstall\Step_0.gml
+Converted description /// @description  faces path
+
+Converting GML script: ${project_dir}\objects\demon_homing_sweep_right\Step_0.gml
+Converted description /// @description  faces path
+
+Converting GML script: ${project_dir}\objects\demon_homing_figure_8\Step_0.gml
+Converted description /// @description  faces path
+
+Converting GML script: ${project_dir}\objects\demon_homing_squiggle\Step_0.gml
+Converted description /// @description  faces path
+
+Converting GML script: ${project_dir}\objects\destroyer_homing_sweep_left\Step_0.gml
+Converted description /// @description  faces path
+
+Converting GML script: ${project_dir}\objects\destroyer_homing_sweep_right\Step_0.gml
+Converted description /// @description  faces path
+
+Converting GML script: ${project_dir}\objects\destroyer_homing_figure8\Step_0.gml
+Converted description /// @description  faces path
+
+Converting GML script: ${project_dir}\objects\carrior_homing_sweep_left\Step_0.gml
+Converted description /// @description  faces path
+
+Converting GML script: ${project_dir}\objects\carrior_homing_sweep_right\Step_0.gml
+Converted description /// @description  faces path
+
+Converting GML script: ${project_dir}\objects\carrier_\Step_0.gml
+Converted description /// @description  faces path
+
+Converting GML script: ${project_dir}\objects\biker_nogun_sweep_right\Step_0.gml
+Converted description /// @description  faces path
+
+Converting GML script: ${project_dir}\objects\centipede\Step_0.gml
+Converted description /// @description  faces path
+
+Converting GML script: ${project_dir}\objects\biker_sweep_left\Step_0.gml
+Converted description /// @description  faces path
+
+Converting GML script: ${project_dir}\objects\biker_sweep_right\Step_0.gml
+Converted description /// @description  faces path
+
+Converting GML script: ${project_dir}\objects\biker_squiggle\Step_0.gml
+Converted description /// @description  faces path
+
+Converting GML script: ${project_dir}\objects\bumblebee_sweep_left\Step_0.gml
+Converted description /// @description  faces path
+
+Converting GML script: ${project_dir}\objects\bumblebee_figure_8\Step_0.gml
+Converted description /// @description  faces path
+
+Converting GML script: ${project_dir}\objects\bumblebee_sweep_right\Step_0.gml
+Converted description /// @description  faces path
+
+Converting GML script: ${project_dir}\objects\bumblebee_squiggle_path\Step_0.gml
+Converted description /// @description  faces path
+
+Converting GML script: ${project_dir}\objects\obj_startgrid\Draw_0.gml
+Converted description /// @description vhs background
+
+Converting GML script: ${project_dir}\objects\obj_player_invincible\Step_2.gml
+Converted description /// @description  speed clamp
+
+Converting GML script: ${project_dir}\objects\obj_player_invincible\Keyboard_39.gml
+Converted description /// @description bank right
+
+Converting GML script: ${project_dir}\objects\obj_player_invincible\Keyboard_37.gml
+Converted description /// @description bank left
+
+Converting GML script: ${project_dir}\objects\obj_player_invincible\KeyRelease_39.gml
+Converted description /// @description back to center
+
+Converting GML script: ${project_dir}\objects\obj_player_invincible\KeyRelease_37.gml
+Converted description /// @description back to center
+
+Converting GML script: ${project_dir}\objects\obj_player\Alarm_1.gml
+Converted description /// @description  reset vibration
+
+Converting GML script: ${project_dir}\objects\obj_player\Step_0.gml
+Converted description /// @description  gamepad movement
+
+Converting GML script: ${project_dir}\objects\obj_player\Keyboard_39.gml
+Converted description /// @description bank right
+
+Converting GML script: ${project_dir}\objects\obj_player\Keyboard_37.gml
+Converted description /// @description bank left
+
+Converting GML script: ${project_dir}\objects\obj_player\KeyRelease_39.gml
+Converted description /// @description back to center
+
+Converting GML script: ${project_dir}\objects\obj_player\KeyRelease_37.gml
+Converted description /// @description back to center
+
+Converting GML script: ${project_dir}\objects\obj_player_bullet\Create_0.gml
+Converted description /// @description explosion sound
+
+Converting GML script: ${project_dir}\objects\obj_player_bullet_w2\Create_0.gml
+Converted description /// @description explosion sound
+
+Converting GML script: ${project_dir}\objects\obj_LVL3_backbullet\Create_0.gml
+Converted description /// @description explosion sound
+
+Converting GML script: ${project_dir}\objects\Boss_missle\Step_0.gml
+Converted description /// @description make bullet face direction shot
+
+Converting GML script: ${project_dir}\objects\boss_straight_bullet\Collision_19137910-8400-4b95-9990-fc4c07c5f7b9.gml
+Converted description /// @description explosion sound
+
+Converting GML script: ${project_dir}\objects\boss_basic_homing\Step_0.gml
+Converted description /// @description make bullet face direction shot
+
+Converting GML script: ${project_dir}\objects\obj_enemy_homing_bullet\Step_0.gml
+Converted description /// @description make bullet face direction shot
+
+Converting GML script: ${project_dir}\objects\lvl2_groundscorpionmissle\Step_0.gml
+Converted description /// @description make bullet face direction shot
+
+Converting GML script: ${project_dir}\objects\obj_enemy_straight_bullet\Step_0.gml
+Converted description /// @description make bullet face direction shot
+
+Converting GML script: ${project_dir}\objects\obj_explosion_1\Create_0.gml
+Converted description /// @description explosion sound
+
+Converting GML script: ${project_dir}\objects\obj_explosion_1\Alarm_4.gml
+Converted description /// @description explosion sound
+
+Converting GML script: ${project_dir}\objects\obj_explosion_2\Create_0.gml
+Converted description /// @description explosion sound
+
+Converting GML script: ${project_dir}\objects\obj_explosion_2\Alarm_4.gml
+Converted description /// @description explosion sound
+
+Converting GML script: ${project_dir}\objects\obj_explosion_3\Create_0.gml
+Converted description /// @description explosion sound
+
+Converting GML script: ${project_dir}\objects\obj_explosion_3\Alarm_4.gml
+Converted description /// @description explosion sound
+
+Converting GML script: ${project_dir}\objects\obj_explosion_4\Create_0.gml
+Converted description /// @description explosion sound
+
+Converting GML script: ${project_dir}\objects\obj_explosion_4\Alarm_4.gml
+Converted description /// @description explosion sound
+
+Converting GML script: ${project_dir}\objects\obj_explosion_5\Alarm_0.gml
+Converted description /// @description explosion sound
+
+Converting GML script: ${project_dir}\objects\obj_explosion_reset_player\Create_0.gml
+Converted description /// @description explosion sound
+
+Converting GML script: ${project_dir}\objects\obj_control_game_setup\Create_0.gml
+Converted description /// @description  setting globals for scoring system
+
+Converting GML script: ${project_dir}\objects\obj_control_game_setup\KeyPress_27.gml
+Converted description /// @description  Pause 
+
+Converting GML script: ${project_dir}\objects\obj_control_game_setup\KeyPress_18.gml
+Converted description /// @description  Pause 
+
+Converting GML script: ${project_dir}\objects\oGetNameController\Draw_0.gml
+Converted description /// @description tv fuzz
+
+Converting GML script: ${project_dir}\objects\oGetNameController\KeyPress_18.gml
+Converted description /// @description  highscore_add(name, score);/// @param name
+/// @param  score
+
+Converting GML script: ${project_dir}\objects\obj_Sound_Global\Create_0.gml
+Converted description /// @description  storage for global sound values
+
+Converting GML script: ${project_dir}\objects\obj_winscreen_control\Draw_0.gml
+Converted description /// @description black backdrop and startgrid
+
+Converting GML script: ${project_dir}\objects\scoreboard\Step_0.gml
+Converted description /// @description  Menu GamePad Movement
+
+Converting GML script: ${project_dir}\objects\scoreboard\Draw_64.gml
+Converted description /// @description black backdrop and startgrid
+
+Converting GML script: ${project_dir}\objects\obj_credits_control\Create_0.gml
+Converted description /// @description  sets text for credits and speed
+
+Converting GML script: ${project_dir}\objects\obj_credits_control\Draw_64.gml
+Converted description /// @description black backdrop and startgrid
+
+Converting GML script: ${project_dir}\objects\obj_Level_Scoreboard\Draw_0.gml
+Converted description /// @description black backdrop and startgrid
+
+Converting GML script: ${project_dir}\objects\obj_final_scoreboard\Draw_64.gml
+Converted description /// @description black backdrop and startgrid
+
+Converting GML script: ${project_dir}\objects\SplashScreen_Audio_setup\Create_0.gml
+Converted description /// @description  Set Variables //load audio groups
+
+Converting GML script: ${project_dir}\objects\Splash_Screen_control\Draw_64.gml
+Converted description /// @description black backdrop and startgrid
+
+Converting GML script: ${project_dir}\objects\obj_CRT_Windows_distortion_and_border\Create_0.gml
+Converted builtin - line 9: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 21: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 10: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 22: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_CRT_Windows_distortion_and_border\Draw_64.gml
+Converted builtin - line 6: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 6: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_control_tile_movement\Step_0.gml
+Converted description /// @description tile shift
+
+Converting GML script: ${project_dir}\objects\Tile_destroy\Create_0.gml
+Converted description /// @description  Delete tiles
+
+Converting GML script: ${project_dir}\objects\obj_startmenu_backdrop\Draw_0.gml
+Converted description /// @description black backdrop and startgrid
+
+Converting GML script: ${project_dir}\objects\obj_menu_cutscene_gamepad_control\Step_0.gml
+Converted description /// @description  a button equals enter
+
+Converting GML script: ${project_dir}\objects\obj_clear_clouds\Create_0.gml
+Converted description /// @description  Destroy Clouds
+
+Converting GML script: ${project_dir}\objects\Global_Volumes\Create_0.gml
+Converted description /// @description  fxvolume variable initiation
+
+Converting GML script: ${project_dir}\objects\Global_Volumes\Alarm_3.gml
+Converted description /// @description  Menu GamePad Movement
+
+Converting GML script: ${project_dir}\objects\Difficulty_setup_object\Create_0.gml
+Converted description /// @description  stop all audio
+
+Converting GML script: ${project_dir}\objects\Difficulty_setup_object\Step_0.gml
+Converted description /// @description  Menu GamePad Movement
+
+Converting GML script: ${project_dir}\objects\Difficulty_Normal\KeyPress_27.gml
+Converted description /// @description  stop all audio
+
+Converting GML script: ${project_dir}\objects\Hard_Difficulty\KeyPress_27.gml
+Converted description /// @description  stop all audio
+
+Converting GML script: ${project_dir}\objects\Options_Screen_Control\Create_0.gml
+Converted description /// @description  stop all audio
+
+Converting GML script: ${project_dir}\objects\Options_Screen_Control\Step_0.gml
+Converted description /// @description  Menu GamePad Movement
+
+Converting GML script: ${project_dir}\objects\Start_Menu_control\Step_0.gml
+Converted description /// @description  Menu GamePad Movement
+
+Converting GML script: ${project_dir}\objects\Start_Menu_control\KeyPress_27.gml
+Converted description /// @description deactivating start menu
+
+Converting GML script: ${project_dir}\objects\obj_exit_confirmation_control\Step_0.gml
+Converted description /// @description  Menu GamePad Movement
+
+Converting GML script: ${project_dir}\objects\Pause_Menu\Create_0.gml
+Converted description /// @description  vhs overlay half transparent
+
+Converting GML script: ${project_dir}\objects\Pause_Menu\Alarm_3.gml
+Converted description /// @description  Menu GamePad Movement
+
+Converting GML script: ${project_dir}\objects\Pause_Menu\Step_0.gml
+Converted description /// @description /audio and button input
+
+Converting GML script: ${project_dir}\objects\Pause_Menu\Draw_0.gml
+Converted description /// @description  Reset Shader and draw menu
+
+Converting GML script: ${project_dir}\objects\Pause_Menu\KeyPress_27.gml
+Converted description /// @description  vhs overlay half transparent
+
+Converting GML script: ${project_dir}\objects\Pause_Menu\KeyPress_18.gml
+Converted description /// @description  vhs overlay half transparent
+
+Converting GML script: ${project_dir}\objects\pause_option_resume\Create_0.gml
+Converted description /// @description  kill other live pause menu items
+
+Converting GML script: ${project_dir}\objects\pause_option_resume\KeyPress_32.gml
+Converted description /// @description  vhs overlay half transparent
+
+Converting GML script: ${project_dir}\objects\pause_option_resume\KeyPress_13.gml
+Converted description /// @description  vhs overlay half transparent
+
+Converting GML script: ${project_dir}\objects\pause_option_sfx\Create_0.gml
+Converted description /// @description  kill other live pause menu items
+
+Converting GML script: ${project_dir}\objects\pause_option_music\Create_0.gml
+Converted description /// @description  kill other live pause menu items
+
+Converting GML script: ${project_dir}\objects\pause_option_rumble\Create_0.gml
+Converted description /// @description  kill other live pause menu items
+
+Converting GML script: ${project_dir}\objects\pause_option_rumble\KeyPress_32.gml
+Converted description /// @description toggle 
+
+Converting GML script: ${project_dir}\objects\pause_option_exit\Create_0.gml
+Converted description /// @description  kill other live pause menu items
+
+Converting GML script: ${project_dir}\objects\obj_fade_opening\Draw_0.gml
+Converted builtin - line 17: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 19: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 20: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 19: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 20: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_fade\Draw_0.gml
+Converted builtin - line 17: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 19: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 20: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 19: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 20: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_Stage_1_Cut_Scene\Create_0.gml
+Converted description /// @description  global total kills
+
+Converting GML script: ${project_dir}\objects\obj_Stage_1_Waiting_Room\Create_0.gml
+Converted description /// @description  set global kills back to 0
+
+Converting GML script: ${project_dir}\objects\obj_lvl_2_control\Create_0.gml
+Converted description /// @description  vhs overlay half transparent
+
+Converting GML script: ${project_dir}\objects\obj_Stage_2_Boss_Fade\Create_0.gml
+Converted description /// @description  global total kills
+
+Converting GML script: ${project_dir}\objects\obj_Stage_2_Cut_Scene\Alarm_3.gml
+Converted description /// @description explosion sound
+
+Converting GML script: ${project_dir}\objects\obj_Stage_2_Cut_Scene\Alarm_2.gml
+Converted description /// @description explosion sound
+
+Converting GML script: ${project_dir}\objects\obj_Stage_2_Waiting_Room\Create_0.gml
+Converted description /// @description  set global kills back to 0
+
+Converting GML script: ${project_dir}\objects\lvl_3_boss_death\Create_0.gml
+Converted description /// @description  vhs overlay
+
+Converting GML script: ${project_dir}\objects\obj_Stage_3_Boss_Fade\Create_0.gml
+Converted description /// @description  global total kills
+
+Converting GML script: ${project_dir}\objects\obj_lvl_4_control\Create_0.gml
+Converted description /// @description  vhs overlay half transparent
+
+Converting GML script: ${project_dir}\objects\Stage_4_Boss_Fade\Create_0.gml
+Converted description /// @description  global total kills
+
+Converting GML script: ${project_dir}\objects\obj_Stage_4_Cut_scene\Alarm_3.gml
+Converted description /// @description explosion sound
+
+Converting GML script: ${project_dir}\objects\obj_Stage_4_Cut_scene\Alarm_2.gml
+Converted description /// @description explosion sound
+
+Converting GML script: ${project_dir}\objects\obj_lvl_5_control\Create_0.gml
+Converted description /// @description  vhs overlay half transparent
+
+Converting GML script: ${project_dir}\objects\obj_fx_screen_shake_large\Alarm_0.gml
+Converted builtin - line 3: view_xview = 0 -> __view_set( e__VW.XView, 0, 0 )
+Converted builtin - line 4: view_yview = 0 -> __view_set( e__VW.YView, 0, 0 )
+Converted description /// @description  shake viewport
+
+Converting GML script: ${project_dir}\objects\obj_fx_screen_shake_large\Step_0.gml
+Converted builtin - line 2: view_xview = random_range(-8,8) -> __view_set( e__VW.XView, 0, random_range(-8,8) )
+Converted builtin - line 3: view_yview = random_range(-8,8) -> __view_set( e__VW.YView, 0, random_range(-8,8) )
+
+Converting GML script: ${project_dir}\objects\obj_fx_screen_shake_small\Alarm_0.gml
+Converted builtin - line 1: view_xview = 0 -> __view_set( e__VW.XView, 0, 0 )
+Converted builtin - line 2: view_yview = 0 -> __view_set( e__VW.YView, 0, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_fx_screen_shake_small\Step_0.gml
+Converted builtin - line 2: view_xview = random_range(-1,1) -> __view_set( e__VW.XView, 0, random_range(-1,1) )
+Converted builtin - line 3: view_yview = random_range(-1,1) -> __view_set( e__VW.YView, 0, random_range(-1,1) )
+
+Converting GML script: ${project_dir}\objects\obj_Final_Boss_destroyed\Create_0.gml
+Converted description /// @description  set total kills and reset global kills for next round
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Detected a Windows Steam App ID: The Steam App ID is now in one place - Main Options, please ensure it is correct
+Game speed set to 60
+Added compatibility script 'action/action_another_room.gml'
+Added compatibility script 'action/action_change_object.gml'
+Added compatibility script 'action/action_color.gml'
+Added compatibility script 'action/action_create_object.gml'
+Added compatibility script 'action/action_draw_health.gml'
+Added compatibility script 'action/action_draw_life_images.gml'
+Added compatibility script 'action/action_draw_rectangle.gml'
+Added compatibility script 'action/action_draw_score.gml'
+Added compatibility script 'action/action_draw_sprite.gml'
+Added compatibility script 'action/action_draw_text.gml'
+Added compatibility script 'action/action_draw_variable.gml'
+Added compatibility script 'action/action_effect.gml'
+Added compatibility script 'action/action_end_game.gml'
+Added compatibility script 'action/action_end_sound.gml'
+Added compatibility script 'action/action_font.gml'
+Added compatibility script 'action/action_fullscreen.gml'
+Added compatibility script 'action/action_if_dice.gml'
+Added compatibility script 'action/action_if_life.gml'
+Added compatibility script 'action/action_if_number.gml'
+Added compatibility script 'action/action_if_sound.gml'
+Added compatibility script 'action/action_if_variable.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_move_point.gml'
+Added compatibility script 'action/action_move_to.gml'
+Added compatibility script 'action/action_next_room.gml'
+Added compatibility script 'action/action_partemit_create.gml'
+Added compatibility script 'action/action_partemit_destroy.gml'
+Added compatibility script 'action/action_partemit_stream.gml'
+Added compatibility script 'action/action_partsyst_create.gml'
+Added compatibility script 'action/action_partsyst_destroy.gml'
+Added compatibility script 'action/action_parttype_color.gml'
+Added compatibility script 'action/action_parttype_create.gml'
+Added compatibility script 'action/action_parttype_gravity.gml'
+Added compatibility script 'action/action_parttype_life.gml'
+Added compatibility script 'action/action_parttype_speed.gml'
+Added compatibility script 'action/action_path.gml'
+Added compatibility script 'action/action_path_end.gml'
+Added compatibility script 'action/action_previous_room.gml'
+Added compatibility script 'action/action_set_alarm.gml'
+Added compatibility script 'action/action_set_health.gml'
+Added compatibility script 'action/action_set_life.gml'
+Added compatibility script 'action/action_set_relative.gml'
+Added compatibility script 'action/action_set_score.gml'
+Added compatibility script 'action/action_set_vspeed.gml'
+Added compatibility script 'action/action_sound.gml'
+Added compatibility script 'action/action_sprite_set.gml'
+Added compatibility script 'action/action_timeline_set.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'tile/tile_delete.gml'
+Added compatibility script 'tile/tile_get_ids.gml'
+Added compatibility script 'tile/tile_get_x.gml'
+Added compatibility script 'tile/tile_layer_shift.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'view/__view_set.gml'
+Added compatibility script 'view/__view_set_internal.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

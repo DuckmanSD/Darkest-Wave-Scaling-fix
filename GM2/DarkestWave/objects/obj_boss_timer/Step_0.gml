@@ -1,0 +1,2 @@
+global.bosstime += 1;
+
